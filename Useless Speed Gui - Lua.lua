@@ -11,7 +11,7 @@ local TextBox = Instance.new("TextBox")
 
 --Properties:
 
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.Parent = game.CoreGui
 
 Frame.Name = "Frame"
 Frame.Parent = ScreenGui
