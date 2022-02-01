@@ -1,4 +1,4 @@
--- Useless script Made By Invert#4600
+-- Useless script Made By Candice
 -- Version: 6.9
 -- Press X to Hide/Unhide
 
